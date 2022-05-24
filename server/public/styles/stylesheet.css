@@ -1,0 +1,16 @@
+h1 {
+    color: purple;
+    background-color: yellow;
+    font-family: fantasy;
+    text-align: center;
+}
+
+body {
+    background-color: skyblue;
+    font-family: fantasy;
+}
+
+.oneTask {
+    border: solid 2px white;
+    background-color: red;
+}
